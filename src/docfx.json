@@ -42,8 +42,7 @@
         },
         "template": [
             "default",
-            "modern",
-            "template/material"
+            "modern"
         ]
     }
 }
