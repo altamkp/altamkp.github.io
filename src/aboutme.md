@@ -4,7 +4,9 @@
 
 ---
 
-What's up! My name is Alex Tam (aka [altamkp](https://github.com/altamkp)😎) and I am from Hong Kong, China. I am part-time indie game developer creating games and plugins with Godot👾.
+Howdy! 😎
+
+My name is Alex Tam (aka [altamkp](https://github.com/altamkp)) and I am from Hong Kong, China. I am a part-time indie game developer creating games and plugins with Godot👾.
 
 My game dev journey started with an AR project with Unity back in University. I fell in love💙 with programming and game dev in particular. From Unity to Godot, C# to C++, I learnt almost everything by myself.
 
