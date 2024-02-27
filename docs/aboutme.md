@@ -1,6 +1,6 @@
 # About me
 
-<img src="~/images/altamkp_main.png" alt="altamkp" style="display: block; margin: 0 auto" />
+<img src="images/altamkp_main.png" alt="altamkp" style="display: block; margin: 0 auto" />
 
 ---
 

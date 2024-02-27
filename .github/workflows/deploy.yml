@@ -1,4 +1,4 @@
-name: Deploy to Pages
+name: Deploy documentation to Pages
 
 # Trigger the action on push to master
 on:
@@ -33,7 +33,7 @@ jobs:
         dotnet-version: 8.x
 
     - run: dotnet tool update -g docfx
-    - run: docfx docs/docfx.json -s
+    - run: docfx docs/docfx.json
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
