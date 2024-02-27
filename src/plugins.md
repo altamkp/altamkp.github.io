@@ -2,6 +2,8 @@
 
 Here you can find plugins and extensions I have created.
 
+---
+
 ## Godot
 
 1. [GodotEx](https://altamkp.github.io/GodotEx/)
