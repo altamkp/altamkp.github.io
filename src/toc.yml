@@ -1,0 +1,6 @@
+- name: Games
+  href: games/games.md
+- name: Plugins
+  href: plugins/plugins.md
+- name: Blogs
+  href: blogs/blogs.md
