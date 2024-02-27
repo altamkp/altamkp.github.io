@@ -12,7 +12,7 @@ My game dev journey started with an AR project with Unity back in University. I 
 
 I have made numerous crappy games along the way as shown below, but you can check out the polished ones that are in production or even published [here](games.md)!
 
-> [!Video https://youtu.be/n9KN4lTIPcY]
+> [!Video https://www.youtube.com/watch?v=n9KN4lTIPcY]
 
 ## Contacts
 
