@@ -1,6 +1,8 @@
+- name: About Me
+  href: aboutme.md
 - name: Games
-  href: games/games.md
+  href: games.md
 - name: Plugins
-  href: plugins/plugins.md
+  href: plugins.md
 - name: Blogs
   href: blogs/blogs.md

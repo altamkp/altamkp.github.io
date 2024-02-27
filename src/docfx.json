@@ -12,13 +12,6 @@
         "exclude": ["_site/**"]
       }
     ],
-    "resource": [
-      {
-        "files": ["images/**"]
-      }
-    ],
-    "output": "_site",
-    "template": ["default", "modern"],
     "globalMetadata": {
       "_appFaviconPath": "images/altamkp.ico",
       "_appFooter": "Copyright (c) 2024 <a href='https://github.com/altamkp'>altamkp</a>",
@@ -27,7 +20,19 @@
       "_appTitle": "altamkp",
       "_enableSearch": true,
       "_disableContribution": true,
+      "_googleAnalyticsTagId": "G-7RVXCDSYQN",
       "pdf": false
-    }
+    },
+    "output": "_site",
+    "resource": [
+      {
+        "files": ["images/**"]
+      }
+    ],
+    "sitemap": {
+        "baseUrl": "https://altamkp.github.io",
+        "changefreq": "monthly"
+    },
+    "template": ["default", "modern"]
   }
 }
