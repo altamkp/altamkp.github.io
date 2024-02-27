@@ -8,4 +8,4 @@ Welcome to my home page😎!
 
 I am an indie game developer creating games and plugins with Godot👾. 
 
-Learn more about [me](aboutme.md) and [my games](games.md).
+Learn more about [me](aboutme.md) and [my games](games/games.md).

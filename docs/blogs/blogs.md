@@ -1,6 +1,6 @@
 # Blogs
 
-View my latest blogs/updates here👀!
+View my latest blogs and updates here👀!
 
 ---
 

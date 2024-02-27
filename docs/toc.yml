@@ -1,7 +1,7 @@
 - name: About Me
   href: aboutme.md
 - name: Games
-  href: games.md
+  href: games/games.md
 - name: Plugins
   href: plugins.md
 - name: Blogs
