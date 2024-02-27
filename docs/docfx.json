@@ -1,0 +1,48 @@
+{
+    "metadata": [
+        {
+            "src": [],
+            "dest": "api"
+        }
+    ],
+    "build": {
+        "content": [
+            {
+                "files": [
+                    "**/*.{md,yml}"
+                ],
+                "exclude": [
+                    "_site/**"
+                ]
+            }
+        ],
+        "globalMetadata": {
+            "_appFaviconPath": "images/altamkp.ico",
+            "_appFooter": "Copyright &copy 2024 <a href='https://altamkp.github.io'>altamkp</a>",
+            "_appLogoPath": "images/altamkp_title.png",
+            "_appName": "altamkp",
+            "_appTitle": "altamkp",
+            "_disableBreadcrumb": true,
+            "_disableContribution": true,
+            "_enableSearch": true,
+            "_googleAnalyticsTagId": "G-7RVXCDSYQN",
+            "pdf": false
+        },
+        "output": "_site",
+        "resource": [
+            {
+                "files": [
+                    "images/**"
+                ]
+            }
+        ],
+        "sitemap": {
+            "baseUrl": "https://altamkp.github.io",
+            "changefreq": "monthly"
+        },
+        "template": [
+            "default",
+            "modern"
+        ]
+    }
+}
